@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "bpc": 6.299739518629754,
+    "long_range_recall": 0.0,
+    "memory_hit_rate": 0.0,
+    "tokens_per_sec": 9489.288347887074
+  },
+  "with_ltm": {
+    "bpc": 1.4671771410019836,
+    "long_range_recall": 0.0,
+    "memory_hit_rate": 0.0,
+    "tokens_per_sec": 1637.7064437158372
+  }
+}
